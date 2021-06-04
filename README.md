@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @MOGATON
 - 👀 I’m interested in ...Java programing
 - 🌱 I’m currently learning ...Java
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOGATON&theme=chartreuse-dark&show_icons=true)
+
+
+
+
 - 📫 How to reach me ...mazurak24@gmail.com
 
 <!---
