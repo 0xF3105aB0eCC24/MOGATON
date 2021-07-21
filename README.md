@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me ...mazurak24@gmail.com
+- 📫 How to reach me ...mazurak7722@gmail.com
 
 <!---
 MOGATON/MOGATON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
