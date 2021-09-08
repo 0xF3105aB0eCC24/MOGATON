@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOGATON
+- 👋 Hi, I’m Oleksandr 
 - 👀 I’m interested in ...Java programing
 - 🌱 I’m currently learning ...Java
 
