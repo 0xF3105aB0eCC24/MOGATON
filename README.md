@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oleksandr 
-- 👀 I’m interested in ...Java programing
-- 🌱 I’m currently learning ...Java
+- 👀 I’m interested in Java programing
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOGATON&theme=chartreuse-dark&show_icons=true)
 
