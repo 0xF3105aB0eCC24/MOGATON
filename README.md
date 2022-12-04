@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleksandr 
-- 👀 I’m interested in Java programing
+- 👀 I’m interested in Backend Development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOGATON&theme=chartreuse-dark&show_icons=true)
 
